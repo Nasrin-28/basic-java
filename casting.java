@@ -17,10 +17,14 @@ public static void main(String args[])
 
 {
 	int a=10;
-	double b=a;
+	double b=a,d=25.674;
+	int c=(int)d;
 	
 	System.out.println("int  :"+a);
 	System.out.println("double :"+b);
+	System.out.println("double :"+d);
+	Syetem.out.println("int :"+c);
+	
 	
 }
 }
